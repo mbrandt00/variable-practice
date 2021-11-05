@@ -20,3 +20,5 @@ current_pieces = ['Chopin Op. 10 No. 3', 'Chopin Op. 10 8', 'Prelude and Fugue B
 
 
 days_of_week = %w(Monday, Tuesday, Wednesday, Thursday, Friday, Saturday, Sunday)
+
+piece_difficulty = {'Etudes' : 10, 'Sonatas' : 8, 'Fur Elise' : 2}
